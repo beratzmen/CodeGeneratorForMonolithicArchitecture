@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Generator\" />
+    <Folder Include="Generator\Helpers\" />
   </ItemGroup>
 
 </Project>
