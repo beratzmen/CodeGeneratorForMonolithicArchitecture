@@ -3,7 +3,7 @@
 
 <h2>Code Generator Project</h2>
 <p> 
-   <h4>Programın çalışır halinin videosunu, dosyanın en altındaki link ile izleyebilirsiniz.</h4>
+   <h4>Programın çalışır halinin videosunu, dosyanın en altındaki play butonuna basarak izleyebilirsiniz.</h4>
    
    <h4>
      <i>
