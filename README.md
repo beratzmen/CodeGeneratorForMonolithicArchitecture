@@ -15,7 +15,7 @@ CodeGenerator projesi içerisinde yapılmış olan geliştirme sayesinde;
 > Business katmanında <b>Abstract ve Concrete</b> klasöründe Interface ve Class'ları oluşturduktan sonra Business katmanı ile DataAccess katmanı arasındaki köprüde kurulmuş olmaktadır.
 
 
-<i>NOT: proje henüz tamamlanmamış olup basic düzeyde tutulmuştur. İhtiyaca göre geliştirmeye açıktır ve devam edilecektir. Windows ve Macbook larda dosya yollarında farklılık olacaktır. Dosya yolları, Windows'ta '\\' olması gerekirken Maclerde '/' olarak değiştirilmesi gerekmektedir. İlerleyen süreçlerde, dosya yolları <b>Config</b> dosyasından okunacak, <b>Web</b> projesi eklenerek <b>Register</b> işlemi yapılacak ve <b>Dependency Injection</b> blokları otomatik oluşturulacak.</i>
+<i>NOT: Proje henüz tamamlanmamış olup basic düzeyde tutulmuştur. İhtiyaca göre geliştirmeye açıktır ve devam edilecektir. Windows ve Macbook larda dosya yollarında farklılık olacaktır. Dosya yolları, Windows'ta '\\' olması gerekirken Maclerde '/' olarak değiştirilmesi gerekmektedir. İlerleyen süreçlerde, dosya yolları <b>Config</b> dosyasından okunacak, <b>Web</b> projesi eklenerek <b>Register</b> işlemi yapılacak ve <b>Dependency Injection</b> blokları otomatik oluşturulacak.</i>
 </p>
 
 
