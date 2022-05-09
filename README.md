@@ -21,5 +21,6 @@ CodeGenerator projesi içerisinde yapılmış olan geliştirme sayesinde;
 
 <hr/>
 
-https://user-images.githubusercontent.com/30552914/167453390-71ae0abb-5f84-4bbd-a91c-1512996592ba.MP4
+
+https://user-images.githubusercontent.com/30552914/167459001-7760eae9-a541-4ef1-921d-89033a236d7c.MP4
 
