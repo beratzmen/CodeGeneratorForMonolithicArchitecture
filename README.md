@@ -4,8 +4,7 @@
 <h2>Code Generator Project</h2>
 <p> 
    <h4>Programın çalışır halinin videosunu, dosyanın en altındaki play butonuna basarak izleyebilirsiniz.</h4>
-   
-   <h4>
+  
      
        Çok katmanlı mimari ile geliştilen projelerde, yeni bir <b>Entity</b> ekleneceği zaman tüm katmanlarda <b>(DataAccess, Business ..)</b> ilgili entity için en az birer tane <b>'Interface' ve bu Interface kalıtım alan bir 'Class'</b> oluşturmak gerekmektedir. Bu işlem başlangıçta zevkli olsada bir yerden sonra sürekli kendini tekrar eder bir hal almaktadır ve bu durum can sıkıcı olabilmektedir. <b>(Dont repeat yourself.)</b>
        
@@ -18,7 +17,7 @@
 
        
        <i>NOT: proje henüz tamamlanmamış olup basic düzeyde tutulmuştur. İhtiyaca göre geliştirmeye açıktır ve devam edilecektir. Windows ve Macbook larda dosya yollarında farklılık olacaktır. Dosya yolları, Windows'ta '\\' olması gerekirken Maclerde '/' olarak değiştirilmesi gerekmektedir. İlerleyen süreçlerde, dosya yolları <b>Config</b> dosyasından okunacak, <b>Web</b> projesi eklenerek <b>Register</b> işlemi yapılacak ve <b>Dependency Injection</b> blokları otomatik oluşturulacak.</i>
-   </h4>
+
 </p>
 
 
