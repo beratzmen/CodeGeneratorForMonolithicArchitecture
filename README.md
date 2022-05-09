@@ -5,7 +5,7 @@
 <h4>Programın çalışır halinin videosunu, dosyanın en altındaki play butonuna basarak izleyebilirsiniz.</h4>
 
 <p> 
-   Çok katmanlı mimari ile geliştilen projelerde, yeni bir <b>Entity</b> ekleneceği zaman tüm katmanlarda <b>(DataAccess, Business ..)</b> ilgili entity için en az birer tane <b>'Interface' ve bu Interface kalıtım alan bir 'Class'</b> oluşturmak gerekmektedir. Bu işlem başlangıçta zevkli olsada bir yerden sonra sürekli kendini tekrar eder bir hal almaktadır ve bu durum can sıkıcı olabilmektedir. <b>(Dont repeat yourself.)</b>
+   Çok katmanlı mimari ile geliştilen projelerde, yeni bir <b>Entity</b> ekleneceği zaman tüm katmanlarda <b>(DataAccess, Business ..)</b> yeni eklenen entity için en az birer tane <b>'Interface' ve bu Interface kalıtım alan bir 'Class'</b> oluşturmak gerekmektedir. Bu işlem başlangıçta zevkli olsada bir yerden sonra sürekli kendini tekrar eder bir hal almaktadır ve bu durum can sıkıcı olabilmektedir. <b>(Dont repeat yourself.)</b>
 
 CodeGenerator projesi içerisinde yapılmış olan geliştirme sayesinde;
 > İlk olarak <b>Database</b> ile bağlantımızı oluşturacak class olan <b>Context Class</b>'ımızı oluşturmaktadır.
